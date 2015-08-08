@@ -1,7 +1,7 @@
 Package.describe({
   name: 'my:testpckg',
   version: '0.0.1',
-  summary: 'Test for meteor PR 4907, coffeescript with strict mode',
+  summary: 'Test for meteor PR 4907, coffeescript without strict mode',
   git: '',
   documentation: 'README.md'
 });
