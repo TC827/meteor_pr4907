@@ -1,5 +1,3 @@
-'use strict'
-
 if Meteor.isClient
   Template.mytempl.helpers
     getMessage: ->
